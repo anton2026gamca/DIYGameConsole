@@ -1,5 +1,7 @@
 # DIYGameConsole
 
+I started this project because i always wanted a game console and they were expensive, so i thought this would be cheaper (it isn't). And also i like to do my own things so it is kind of fun!
+
 ## Feature overview
 
 
