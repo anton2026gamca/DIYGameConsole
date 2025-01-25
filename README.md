@@ -32,9 +32,6 @@ Yeah, and i installed minecraft using [Pi-Apps](https://pi-apps.io/).
 
 The case is not done yet, i am working on it together with the custom PCB. I have some parts like for example the trigger mechanism:
 
-https://github.com/user-attachments/assets/5e4dc35e-e2c8-445f-a7e8-56750f032d98
-
-
-
 https://github.com/user-attachments/assets/a6d21912-b9e0-4187-b547-9a2627973d4b
 
+https://github.com/user-attachments/assets/5e4dc35e-e2c8-445f-a7e8-56750f032d98
