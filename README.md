@@ -1,5 +1,13 @@
 # DIYGameConsole
 
+## Feature overview
+
+
+
+https://github.com/user-attachments/assets/3f3b49bf-2f34-4a87-81e9-e7b35d7419ec
+
+
+
 ## 1. Computer
 
 I went with the Raspberry Pi 4 4GB, witch needs 5V/3A unlike the Pi 5 witch needs 5V/5A. I could not find a hat that would output 5V/5A.
