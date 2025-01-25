@@ -11,7 +11,7 @@ https://github.com/user-attachments/assets/3f3b49bf-2f34-4a87-81e9-e7b35d7419ec
 ## 1. Computer
 
 I went with the Raspberry Pi 4 4GB, witch needs 5V/3A unlike the Pi 5 witch needs 5V/5A. I could not find a hat that would output 5V/5A.
-Thanks to (High Seas)[https://highseas.hackclub.com/], i ordered a Raspberry Pi CM5 and i will try it out if it works, also, i wan't to design a custom pcb for the cm5 later.
+Thanks to [High Seas](https://highseas.hackclub.com/), i ordered a Raspberry Pi CM5 and i will try it out if it works, also, i wan't to design a custom pcb for the cm5 later.
 
 ## 2. Screen
 
