@@ -27,3 +27,14 @@ Firstly i installed [retropie](https://retropie.org.uk/) on it, coded some overl
 Yeah, and i installed minecraft using [Pi-Apps](https://pi-apps.io/).
 
 ![20250125_104614](https://github.com/user-attachments/assets/23d79d3e-446d-4c80-bcc1-24bdb06ae3e9)
+
+## 6. Case
+
+The case is not done yet, i am working on it together with the custom PCB. I have some parts like for example the trigger mechanism:
+
+https://github.com/user-attachments/assets/5e4dc35e-e2c8-445f-a7e8-56750f032d98
+
+
+
+https://github.com/user-attachments/assets/a6d21912-b9e0-4187-b547-9a2627973d4b
+
