@@ -8,7 +8,7 @@ I went with the Raspberry Pi 4 4GB, witch needs 5V/3A unlike the Pi 5 witch need
 
 I picked the [elecrow rc050s](https://www.elecrow.com/rc050s-hdmi-5-inch-800x480-capacitive-touch-monitor-built-in-speaker-with-backlight-control.html) because i wanted at least a 5 inch screen, not so expensive and with speakers so i could output sound through HDMI. And i especially like the HDMI and USB connectors since i don't have to deal with some cables for this.
 
-![Uploading 20250125_110155.jpg…]()
+![20250125_110155](https://github.com/user-attachments/assets/48a1e757-2eee-46a7-94ed-2fe63a07b154)
 
 ## 3. Battery
 
