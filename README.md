@@ -8,7 +8,7 @@ I started this project because i always wanted a game console and they were expe
 
 https://github.com/user-attachments/assets/3f3b49bf-2f34-4a87-81e9-e7b35d7419ec
 
-[![Watch video](https://cloud-labmofug4-hack-club-bot.vercel.app/0screenshot.png)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
+[![Watch the video](https://img.youtube.com/vi/default.jpg)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
 
 ## 1. Computer
 
