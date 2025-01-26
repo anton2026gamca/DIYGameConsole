@@ -4,8 +4,10 @@ I started this project because i always wanted a game console and they were expe
 
 ## Feature overview
 
-[![Watch the video](https://cloud-cu0y4s4is-hack-club-bot.vercel.app/0play_video.png)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
+![Screenshot 2025-01-26 133436](https://github.com/user-attachments/assets/d79ddf68-0880-4b7c-ad2a-e691f42b676f)
 
+[![Watch the video](https://github.com/user-attachments/assets/d79ddf68-0880-4b7c-ad2a-e691f42b676f)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
+https://cloud-cu0y4s4is-hack-club-bot.vercel.app/0play_video.png
 ## 1. Computer
 
 I went with the Raspberry Pi 4 4GB, witch needs 5V/3A unlike the Pi 5 witch needs 5V/5A. I could not find a hat that would output 5V/5A.
