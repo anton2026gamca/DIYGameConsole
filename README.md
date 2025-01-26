@@ -8,7 +8,7 @@ I started this project because i always wanted a game console and they were expe
 
 https://github.com/user-attachments/assets/3f3b49bf-2f34-4a87-81e9-e7b35d7419ec
 
-
+https://gamca-my.sharepoint.com/:v:/g/personal/abraham1_gamca_sk/EeGkPRmUafRLrgp2U2Z_-r8BzipETpyRSyZ-LpjmxuPJsQ?e=crNFMi
 
 ## 1. Computer
 
