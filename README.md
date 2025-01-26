@@ -19,7 +19,7 @@ I picked the [elecrow rc050s](https://www.elecrow.com/rc050s-hdmi-5-inch-800x480
 
 ## 3. Battery
 
-Here, i think the best choise any the PiSugar, i specifically went with the PiSugar 3 Plus since i wanted to display the battery percentage on the screen.
+Here, i think the best choise is any PiSugar, i specifically went with the PiSugar 3 Plus since i wanted to display the battery percentage on the screen.
 
 ## 4. Gamepad
 
