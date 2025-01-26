@@ -5,7 +5,7 @@ I started this project because i always wanted a game console and they were expe
 ## Feature overview
 
 
-https://github.com/user-attachments/assets/63926da0-c59a-4cb2-ab39-68f711f8ce8a
+https://github.com/user-attachments/assets/aab691bf-112f-4f87-917b-879da883a274
 
 
 [![Watch the video](https://cloud-cu0y4s4is-hack-club-bot.vercel.app/0play_video.png)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
