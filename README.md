@@ -45,7 +45,7 @@ https://github.com/user-attachments/assets/293d6e5e-0a7c-4e68-9f84-87ab1f90e6ef
 
 https://github.com/user-attachments/assets/acda32a5-d430-4d29-b4fa-1ae6db6a9b4d
 
-## 7. Cusom BCB
+## 7. Cusom PCB
 
 I've designed a custom pcb for the console. It's nothing much, but what do you expect? It's my first pcb!
 
