@@ -4,7 +4,7 @@ I started this project because i always wanted a game console and they were expe
 
 ## Feature overview
 
-[![Watch the video](https://github.com/user-attachments/assets/d79ddf68-0880-4b7c-ad2a-e691f42b676f)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
+[![Watch the video](https://github.com/user-attachments/assets/9050162f-ae0c-4aab-9f75-4fed0fd997a0)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
 
 ## 1. Computer
 
@@ -39,8 +39,22 @@ Yeah, and i installed minecraft using [Pi-Apps](https://pi-apps.io/).
 
 ## 6. Case
 
-The case is not done yet, i am working on it together with the custom PCB. I have some parts like for example the trigger mechanism:
+The case is here! It is not the best version but it works!
 
-https://github.com/user-attachments/assets/a6d21912-b9e0-4187-b547-9a2627973d4b
 
-https://github.com/user-attachments/assets/5e4dc35e-e2c8-445f-a7e8-56750f032d98
+https://github.com/user-attachments/assets/d4f2ea87-f8b4-46e5-a2ec-8af3e1a8423e
+
+
+
+https://github.com/user-attachments/assets/acda32a5-d430-4d29-b4fa-1ae6db6a9b4d
+
+
+## 7. Cusom BCB
+
+I've designed a custom pcb for the console. It's nothing much, but what do you expect? It's my first pcb!
+
+![Screenshot 2025-01-31 192927](https://github.com/user-attachments/assets/158f0544-ea43-41f7-b3ba-4160be894086)
+
+Also i've designed a small board to connect the PiSugar to the Raspberry Pi instead of the wires as in the video
+
+![Screenshot 2025-01-31 204851](https://github.com/user-attachments/assets/e4395a12-5ea0-4169-a29a-33b85dc25808)
