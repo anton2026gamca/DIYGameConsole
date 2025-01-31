@@ -39,7 +39,7 @@ Yeah, and i installed minecraft using [Pi-Apps](https://pi-apps.io/).
 
 ## 6. Case
 
-The case is here! It is not the best version but it works!
+The case is here! It is not the best but it works!
 
 https://github.com/user-attachments/assets/293d6e5e-0a7c-4e68-9f84-87ab1f90e6ef
 
