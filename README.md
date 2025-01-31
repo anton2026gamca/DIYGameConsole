@@ -4,7 +4,7 @@ I started this project because i always wanted a game console and they were expe
 
 ## Feature overview
 
-[![Watch the video](https://github.com/user-attachments/assets/9050162f-ae0c-4aab-9f75-4fed0fd997a0)](https://drive.google.com/file/d/1Uh4P-GCHpqC4NTqpdmDBDMh1mZpFO4up/preview)
+[![Watch the video](https://github.com/user-attachments/assets/9050162f-ae0c-4aab-9f75-4fed0fd997a0)](https://drive.google.com/file/d/1AkpKpJxUvkrZwO-a-s5R-MTxC0ftZYuF/preview?usp=drive_link)
 
 ## 1. Computer
 
@@ -41,13 +41,9 @@ Yeah, and i installed minecraft using [Pi-Apps](https://pi-apps.io/).
 
 The case is here! It is not the best version but it works!
 
-
-https://github.com/user-attachments/assets/d4f2ea87-f8b4-46e5-a2ec-8af3e1a8423e
-
-
+https://github.com/user-attachments/assets/293d6e5e-0a7c-4e68-9f84-87ab1f90e6ef
 
 https://github.com/user-attachments/assets/acda32a5-d430-4d29-b4fa-1ae6db6a9b4d
-
 
 ## 7. Cusom BCB
 
