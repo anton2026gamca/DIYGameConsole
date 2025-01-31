@@ -51,6 +51,6 @@ I've designed a custom pcb for the console. It's nothing much, but what do you e
 
 ![Screenshot 2025-01-31 192927](https://github.com/user-attachments/assets/158f0544-ea43-41f7-b3ba-4160be894086)
 
-Also i've designed a small board to connect the PiSugar to the Raspberry Pi instead of the wires as in the video
+Also i've designed a small board to connect the PiSugar to the Raspberry Pi instead of the wires like in the video
 
 ![Screenshot 2025-01-31 204851](https://github.com/user-attachments/assets/e558f460-9612-4ce6-89d4-82547fbbf516)
