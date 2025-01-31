@@ -4,7 +4,7 @@ I started this project because i always wanted a game console and they were expe
 
 ## Feature overview
 
-[![Watch the video](https://github.com/user-attachments/assets/9050162f-ae0c-4aab-9f75-4fed0fd997a0)](https://drive.google.com/file/d/1AkpKpJxUvkrZwO-a-s5R-MTxC0ftZYuF/preview?usp=drive_link)
+[![Watch the video](https://github.com/user-attachments/assets/9050162f-ae0c-4aab-9f75-4fed0fd997a0)](https://drive.google.com/file/d/1AkpKpJxUvkrZwO-a-s5R-MTxC0ftZYuF/preview)
 
 ## 1. Computer
 
